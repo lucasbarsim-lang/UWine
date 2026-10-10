@@ -8,5 +8,7 @@ O projeto está organizado para abranger:
 * **Parte 1:** definição e validação do tamanho amostral, estratificação da população, testes de hipóteses e bootstrap.
 
 ## 🔗 Estrutura do repositório
+`Lucas_Barbosa_WORKFLOW_PARTE_1 (2).ipynb` - Parte 01 do projeto 
 
-* `Lucas_Barbosa_WOR...ipynb` - Parte 01 do projeto 
+## 🔗 Autor
+Lucas Barbosa Simão 
