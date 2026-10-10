@@ -10,5 +10,8 @@ O projeto está organizado para abranger:
 ## 🔗 Estrutura do repositório
 `Lucas_Barbosa_WORKFLOW_PARTE_1 (2).ipynb` - Parte 01 do projeto 
 
+## 🔗 Vídeo do trabalho 
+Parte 1 - https://youtu.be/15R0M3n8MPs?feature=shared
+
 ## 🔗 Autor
 Lucas Barbosa Simão 
