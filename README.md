@@ -1,6 +1,6 @@
-# Projeto UVWine - TCC (Versão Final)
+# Projeto UWine - TCC
 
-Este repositório reúne as partes do Trabalho de Conclusão de Curso (TCC) em Ciência de Dados, utilizando o caso fictício da UVWine para aplicar estatística, análise de dados e machine learning em Python.
+Este repositório reúne as partes do Trabalho de Conclusão de Curso (TCC) em Ciência de Dados, utilizando o caso fictício da UWine para aplicar estatística, análise de dados e machine learning em Python.
 
 ## 🔗 Objetivo do trabalho
 
