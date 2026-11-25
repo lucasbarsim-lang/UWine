@@ -13,7 +13,7 @@ O projeto está organizado para abranger:
 
 | Arquivo | Conteúdo |
 |---|---|
-| `Lucas_Barbosa_WORKFLOW_PARTE_1 (2).ipynb` | Parte 01 do projeto |
+| `Lucas_Barbosa_WORKFLOW_PARTE_1.ipynb` | Parte 01 do projeto |
 | `Lucas_Barbosa_WORKFLOW_PARTE_2.ipynb` | Parte 02 do projeto |
 
 
@@ -24,7 +24,7 @@ Python, Google Colab, pandas, NumPy, scikit-learn, SciPy, Matplotlib e Seaborn.
 ## 🔗 Vídeo do trabalho
 
 - Parte 1 - https://youtu.be/15R0M3n8MPs?feature=shared
-- Parte 2 - *(adicionar o link)*
+- Parte 2 - *https://www.youtube.com/watch?v=TL-V4ksO1-E*
 
 ## 🔗 Autor
 
